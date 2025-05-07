@@ -43,7 +43,7 @@ const Hero: React.FC = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
           >
             <div className="relative h-[450px] w-full">
-              <div className="absolute top-0 right-0 w-4/5 h-4/5 rounded-lg overflow-hidden shadow-2xl">
+              <div className="absolute top-0 right-0 w-3/5 h-3/5 rounded-lg overflow-hidden shadow-2xl">
                 <img 
                   src="https://2chat-user-data.s3.amazonaws.com/w/p/919645921914/9543989735669036_1" 
                   alt="Featured Jersey" 
@@ -57,9 +57,7 @@ const Hero: React.FC = () => {
                   className="w-full h-full object-cover transition-all duration-500 hover:scale-105" 
                 />
               </div>
-              <div className="absolute top-1/4 left-1/4 bg-accent text-black p-4 rounded rotate-12 shadow-lg z-20 font-bold">
-                Premium Quality
-              </div>
+              
             </div>
           </motion.div>
         </div>
