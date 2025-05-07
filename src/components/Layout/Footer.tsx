@@ -49,11 +49,11 @@ const Footer: React.FC = () => {
           <div id="contact">
             <h3 className="text-lg font-bold mb-4">Contact</h3>
             <p className="text-slate-400 mb-2">Have questions or custom requests?</p>
-            <a href="mailto:info@offside1940.com" className="flex items-center text-accent hover:underline">
+            <a href="mailto:anujdevnani77@gmail.com" className="flex items-center text-accent hover:underline">
               <Mail size={18} className="mr-2" />
-              info@offside1940.com
+              anujdevnani77@gmail.com  
             </a>
-            <p className="text-slate-400 mt-4">DM on Instagram for orders</p>
+            <p className="text-slate-400 mt-4">DM on Instagram <a href="https://instagram.com/offside1940" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">@offside1940</a> for orders</p>
           </div>
         </div>
 

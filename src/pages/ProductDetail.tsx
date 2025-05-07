@@ -57,6 +57,18 @@ const ProductDetail: React.FC = () => {
     setIsNameCustomizationOpen(!isNameCustomizationOpen);
   };
 
+  const handleWhatsAppClick = () => {
+    const message = `Hi, I'm interested in ordering:\n\n` +
+      `${product.name}\n` +
+      `Size: ${selectedSize}\n` +
+      `${customName ? `Name: ${customName}\n` : ''}` +
+      `${customNumber ? `Number: ${customNumber}\n` : ''}`;
+    
+    const encodedMessage = encodeURIComponent(message);
+    const whatsappUrl = `https://wa.me/916269064255?text=${encodedMessage}`;
+    window.open(whatsappUrl, '_blank');
+  };
+
   return (
     <motion.div
       className="pt-32 pb-16"
@@ -246,6 +258,7 @@ const ProductDetail: React.FC = () => {
                   className="btn btn-primary flex-1"
                   whileHover={{ scale: 1.02 }}
                   whileTap={{ scale: 0.98 }}
+                  onClick={handleWhatsAppClick}
                 >
                   <MessageCircle className="mr-2 h-5 w-5" />
                   DM to Order
