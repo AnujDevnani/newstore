@@ -37,29 +37,28 @@ const Hero: React.FC = () => {
           </motion.div>
           
           <motion.div 
-            className="lg:w-1/2 relative"
-            initial={{ opacity: 0, x: 50 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ duration: 0.6, delay: 0.2 }}
-          >
-            <div className="relative h-[450px] w-full">
-              <div className="absolute top-0 right-0 w-3/5 h-3/5 rounded-lg overflow-hidden shadow-2xl">
-                <img 
-                  src="https://2chat-user-data.s3.amazonaws.com/w/p/919645921914/9543989735669036_1" 
-                  alt="Featured Jersey" 
-                  className="w-full h-full object-cover transition-all duration-500 hover:scale-105" 
-                />
-              </div>
-              <div className="absolute bottom-0 left-0 w-3/5 h-3/5 rounded-lg overflow-hidden shadow-2xl">
-                <img 
-                  src="https://2chat-user-data.s3.amazonaws.com/w/p/919645921914/24409719375295113_1" 
-                  alt="Featured Jersey" 
-                  className="w-full h-full object-cover transition-all duration-500 hover:scale-105" 
-                />
-              </div>
-              
-            </div>
-          </motion.div>
+  className="lg:w-1/2 relative w-full"
+  initial={{ opacity: 0, x: 50 }}
+  animate={{ opacity: 1, x: 0 }}
+  transition={{ duration: 0.6, delay: 0.2 }}
+>
+  <div className="relative h-[300px] md:h-[450px] w-full">
+    <div className="absolute top-0 right-0 w-4/5 md:w-3/5 h-3/5 rounded-lg overflow-hidden shadow-2xl">
+      <img 
+        src="https://2chat-user-data.s3.amazonaws.com/w/p/919645921914/9543989735669036_1" 
+        alt="Featured Jersey" 
+        className="w-full h-full object-cover transition-all duration-500 hover:scale-105" 
+      />
+    </div>
+    <div className="absolute bottom-0 left-0 w-4/5 md:w-3/5 h-3/5 rounded-lg overflow-hidden shadow-2xl">
+      <img 
+        src="https://2chat-user-data.s3.amazonaws.com/w/p/919645921914/24409719375295113_1" 
+        alt="Featured Jersey" 
+        className="w-full h-full object-cover transition-all duration-500 hover:scale-105" 
+      />
+    </div>
+  </div>
+</motion.div>
         </div>
       </div>
     </section>
