@@ -13,6 +13,10 @@ const ProductDetail: React.FC = () => {
   const [customName, setCustomName] = useState('');
   const [customNumber, setCustomNumber] = useState('');
   const [isNameCustomizationOpen, setIsNameCustomizationOpen] = useState(false);
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   
   useEffect(() => {
     // If product not found or ID changed, update product
