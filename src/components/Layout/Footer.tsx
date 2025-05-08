@@ -51,7 +51,7 @@ const Footer: React.FC = () => {
             <p className="text-slate-400 mb-2">Have questions or custom requests?</p>
             <a href="mailto:anujdevnani77@gmail.com" className="flex items-center text-accent hover:underline">
               <Mail size={18} className="mr-2" />
-              anujdevnani77@gmail.com  
+              infooffside1940@gmail.com  
             </a>
             <p className="text-slate-400 mt-4"> Click on order now above Or DM on whatsapp +916269064255 OR DM on Instagram <a href="https://instagram.com/offside1940" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">@offside1940</a> for orders</p>
           </div>

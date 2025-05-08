@@ -83,13 +83,6 @@ const Header: React.FC = () => {
             )}
           </button>
           
-          <Link 
-            to="/wishlist" 
-            className="p-2 rounded-full hover:bg-gray-200 dark:hover:bg-slate-700 transition-colors"
-            aria-label="View wishlist"
-          >
-            <ShoppingBag className="h-5 w-5" />
-          </Link>
           
           <button 
             onClick={() => setIsMenuOpen(!isMenuOpen)}

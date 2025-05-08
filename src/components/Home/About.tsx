@@ -48,7 +48,7 @@ const About: React.FC = () => {
             <div className="relative">
               <div className="aspect-video rounded-lg overflow-hidden shadow-xl">
                 <img 
-                  src="https://2chat-user-data.s3.amazonaws.com/w/p/919645921914/28653288467602772_1" 
+                  src="https://2chat-user-data.s3.amazonaws.com/w/p/919645921914/28944407038536104_1" 
                   alt="About offside1940" 
                   className="w-full h-full object-cover"
                 />
