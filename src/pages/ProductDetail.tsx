@@ -262,7 +262,7 @@ const ProductDetail: React.FC = () => {
                   onClick={handleWhatsAppClick}
                 >
                   <MessageCircle className="mr-2 h-5 w-5" />
-                  DM to Order
+                  Order Now
                 </motion.button>
                 <motion.button
                   className="btn btn-secondary flex-1"
