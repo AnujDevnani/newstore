@@ -59,6 +59,7 @@ const ProductDetail: React.FC = () => {
 
   const handleWhatsAppClick = () => {
     const message = `Hi, I'm interested in ordering:\n\n` +
+
       `${product.name}\n` +
       `Size: ${selectedSize}\n` +
       `${customName ? `Name: ${customName}\n` : ''}` +
