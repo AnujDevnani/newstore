@@ -266,9 +266,13 @@ const ProductDetail: React.FC = () => {
                 </motion.button>
                 
               </div>
-              <p className="text-slate-40 mt-4"> How to Order?</p><p className="text-slate-40 mt-1"> 1. Click on order now above. </p>
-              <p className="text-slate-40 mt-1"> 2. DM on whatsapp +916269064255 (with your size and name of product) </p>
-              <p className="text-slate-40 mt-4"> 4. DM on Instagram <a href="https://instagram.com/offside1940" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">@offside1940</a> (with your size and name of product) for orders</p> 
+              <div>
+                <h3 className="text-lg font-semibold mb-2">How To Order</h3>
+                <p className="text-text-secondary whitespace-pre-line"> 1. Click on order now above.</p>
+                <p className="text-text-secondary whitespace-pre-line"> 2. DM on whatsapp +916269064255 (with your size and name of product). </p>
+                <p className="text-text-secondary whitespace-pre-line"> 4. DM on Instagram <a href="https://instagram.com/offside1940" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">@offside1940</a> (with your size and name of product) for orders.</p>
+              
+              </div>
             </div>
           </div>
         </div>
