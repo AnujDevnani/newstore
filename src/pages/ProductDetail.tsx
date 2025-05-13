@@ -77,8 +77,6 @@ Contact no. 1.:
     const encodedMessage = encodeURIComponent(message);
     const whatsappUrl = `https://wa.me/916269064255?text=${encodedMessage}`;
     window.open(whatsappUrl, '_blank');
-    `Product: 
-Size:`
   };
 
   return (
