@@ -67,10 +67,7 @@ District:
 State:
 Pincode:
 Contact no. 1.: 
-2.: 
-
-Product: 
-Size:\n\n` +
+2.: \n\n` +
 
       `Product: ${product.name}\n` +
       `Size: ${selectedSize}\n` +
@@ -80,6 +77,8 @@ Size:\n\n` +
     const encodedMessage = encodeURIComponent(message);
     const whatsappUrl = `https://wa.me/916269064255?text=${encodedMessage}`;
     window.open(whatsappUrl, '_blank');
+    `Product: 
+Size:`
   };
 
   return (
