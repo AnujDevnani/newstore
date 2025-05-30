@@ -82,6 +82,23 @@ export const products = [
     "year": "2002"
   },
   {
+    "id": "556",
+    "name": "YAMAL BARCA × TRAVIS SCOTT HOME KIT",
+    "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n• *M L XL XXL*\n\nPRICE 550+SHIPPING",
+    "price": "550",
+    "currency": "INR",
+    "availability": "in stock",
+    "images": [
+      "public/newarrival/travis1.jpeg",
+      "public/newarrival/travis2.jpeg",
+      "public/newarrival/travis3.jpeg"
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "club": "AC Milan",
+    "player": "MALDINI",
+    "year": "2006"
+  },
+  {
     "id": "28944407038536104",
     "name": "MULLER GERMANY 2024 HOME FULL SLEEVE KIT",
     "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n• M\n\nPRICE 450+SHIPPING",
