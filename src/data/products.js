@@ -89,9 +89,9 @@ export const products = [
     "currency": "INR",
     "availability": "in stock",
     "images": [
-      "https://store1940.netlify.app/newarrival/travis1.jpeg",
-      "https://store1940.netlify.app/newarrival/travis2.jpeg", 
-      "https://store1940.netlify.app/newarrival/travis3.jpeg"
+      "https://store1940.netlify.app/newarrival/travis3.jpeg",
+      "https://store1940.netlify.app/newarrival/travis1.jpeg", 
+      "https://store1940.netlify.app/newarrival/travis2.jpeg"
     ],
     "sizes": "S, M, L, XL, XXL",
     "club": "AC Milan",
