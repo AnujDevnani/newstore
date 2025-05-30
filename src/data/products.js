@@ -84,14 +84,14 @@ export const products = [
   {
     "id": "556",
     "name": "YAMAL BARCA × TRAVIS SCOTT HOME KIT",
-    "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n• *M L XL XXL*\n\nPRICE 550+SHIPPING",
+    "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n•PRICE 550+SHIPPING",
     "price": "550",
     "currency": "INR",
     "availability": "in stock",
     "images": [
-      "public/newarrival/travis1.jpeg",
-      "public/newarrival/travis2.jpeg",
-      "public/newarrival/travis3.jpeg"
+      "https://store1940.netlify.app/newarrival/travis1.jpeg",
+      "https://store1940.netlify.app/newarrival/travis2.jpeg", 
+      "https://store1940.netlify.app/newarrival/travis3.jpeg"
     ],
     "sizes": "S, M, L, XL, XXL",
     "club": "AC Milan",
@@ -337,7 +337,7 @@ export const products = [
     "availability": "in stock",
     "images": [
       "https://2chat-user-data.s3.amazonaws.com/w/p/919645921914/8113615835365299_1",
-      "https://2chat-user-data.s3.amazonaws.com/w/p/919645921914/8113615835365299_2"
+      "https://2chat-user-data.s3.amazonaws.com/w/p/9193615835365299_2"
     ],
     "sizes": "S, M, L, XL, XXL",
     "club": "Chelsea",
@@ -1228,7 +1228,7 @@ export const products = [
     "availability": "in stock",
     "images": [
       "https://2chat-user-data.s3.amazonaws.com/w/p/919645921914/8254665627910326_1",
-      "https://2chat-user-data.s3.amazonaws.com/w/p/919645921914/8254665627910326_2"
+      "https://2chat-user-data.s3.amazonaws.com/w/p/9194665627910326_2"
     ],
     "sizes": "S, M, L, XL, XXL",
     "club": "Al Nassr",
