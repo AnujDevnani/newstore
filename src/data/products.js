@@ -94,9 +94,9 @@ export const products = [
       "https://store1940.netlify.app/newarrival/travis2.jpeg"
     ],
     "sizes": "S, M, L, XL, XXL",
-    "club": "AC Milan",
-    "player": "MALDINI",
-    "year": "2006"
+    "club": "Barcelona",
+    "player": "YAMAL",
+    "year": "2024"
   },
   {
     "id": "28944407038536104",
