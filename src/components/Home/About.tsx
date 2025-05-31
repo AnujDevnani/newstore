@@ -31,7 +31,7 @@ const About: React.FC = () => {
             transition={{ duration: 0.5 }}
             viewport={{ once: true }}
           >
-            <h2 className="text-3xl md:text-4xl font-bold mb-4">About offside1940</h2>
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">About Store1940</h2>
             <p className="text-text-secondary max-w-2xl mx-auto">
               We're passionate about football heritage and bringing iconic jerseys to true fans.
             </p>
@@ -67,7 +67,7 @@ const About: React.FC = () => {
           >
             <h3 className="text-2xl font-bold mb-6">Our Story</h3>
             <p className="text-text-secondary mb-6">
-              Founded by football enthusiasts, offside1940 began with a simple mission: to provide fans with high-quality jerseys that celebrate football heritage and legendary players who defined eras.
+              Founded by football enthusiasts, Store1940 began with a simple mission: to provide fans with high-quality jerseys that celebrate football heritage and legendary players who defined eras.
             </p>
             <p className="text-text-secondary mb-8">
               We specialize in iconic Real Madrid kits and other legendary club jerseys, carefully recreating the designs that made history on the pitch.

@@ -26,7 +26,7 @@ const Logo: React.FC = () => {
     }),
   };
 
-  const logoText = "offside1940";
+  const logoText = "Store1940";
 
   return (
     <motion.div 
