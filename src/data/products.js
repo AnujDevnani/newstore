@@ -99,16 +99,16 @@ export const products = [
     "year": "2002"
   },
   {
-    "id": "556",
-    "name": "YAMAL BARCA × TRAVIS SCOTT HOME KIT",
+    "id": "557",
+    "name": "YAMAL BARCA × TRAVIS SCOTT HOME Black KIT",
     "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n•PRICE 550+SHIPPING",
     "price": "550",
     "currency": "INR",
     "availability": "in stock",
     "images": [
-      "https://store1940.netlify.app/newarrival/travisblack3.jpeg",
-      "https://store1940.netlify.app/newarrival/travisblack1.jpeg", 
-      "https://store1940.netlify.app/newarrival/travisblack2.jpeg"
+      "https://store1940.netlify.app/newarrival/travisblack1.jpeg",
+      "https://store1940.netlify.app/newarrival/travisblack2.jpeg", 
+      "https://store1940.netlify.app/newarrival/travisblack3.jpeg"
     ],
     "sizes": "S, M, L, XL, XXL",
     "club": "Barcelona",
