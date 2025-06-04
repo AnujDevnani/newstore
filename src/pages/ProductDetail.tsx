@@ -271,7 +271,7 @@ const ProductDetail: React.FC = () => {
                 <h3 className="text-lg font-semibold mb-2">How To Order</h3>
                 <p className="text-text-secondary whitespace-pre-line"> 1. Click on order now above.</p>
                 <p className="text-text-secondary whitespace-pre-line"> 2. DM on whatsapp +916269064255 (with your size and name of product). </p>
-                <p className="text-text-secondary whitespace-pre-line"> 4. DM on Instagram <a href="https://instagram.com/offside1940" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">@offside1940</a> (with your size and name of product) for orders.</p>
+                <p className="text-text-secondary whitespace-pre-line"> 4. DM on Instagram <a href="https://instagram.com/store1940.in" target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">@offside1940</a> (with your size and name of product) for orders.</p>
               
               </div>
             </div>
