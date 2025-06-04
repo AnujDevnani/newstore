@@ -16,6 +16,23 @@ export const products = [
     "year": "2006"
   },
   {
+    "id": "556",
+    "name": "YAMAL BARCA × TRAVIS SCOTT HOME KIT",
+    "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n•PRICE 550+SHIPPING",
+    "price": "550",
+    "currency": "INR",
+    "availability": "in stock",
+    "images": [
+      "https://store1940.netlify.app/newarrival/travis1.jpeg",
+      "https://store1940.netlify.app/newarrival/travis2.jpeg", 
+      "https://store1940.netlify.app/newarrival/travis3.jpeg"
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "club": "Barcelona",
+    "player": "YAMAL",
+    "year": "2024"
+  },
+  {
     "id": "24750043901262119",
     "name": "MBAPPE REAL MADRID 25-26 HOME FULL SLEEVE KIT",
     "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n• S M L XL XXL\n\nPRICE 450+SHIPPING",
