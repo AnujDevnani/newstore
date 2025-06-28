@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { Heart } from 'lucide-react';
 import ProductCard from '../components/Product/ProductCard';
-import { products } from '../data/products';
+import { products } from '../data/products_bg';
 
 const Wishlist: React.FC = () => {
   const [wishlistItems, setWishlistItems] = useState<any[]>([]);
