@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ArrowLeft, MessageCircle, Heart, ChevronLeft, ChevronRight } from 'lucide-react';
-import { products } from '../data/products_bg';
+import { products } from '../data/products';
 
 const ProductDetail: React.FC = () => {
   const { id } = useParams<{ id: string }>();
