@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import { useSearchParams } from 'react-router-dom';
 import ProductCard from '../components/Product/ProductCard';
 import ProductFilter, { Filters } from '../components/Catalog/ProductFilter';
-import { products } from '../data/products_bg';
+import { products } from '../data/products';
 
 const Catalog: React.FC = () => {
   const [searchParams, setSearchParams] = useSearchParams();

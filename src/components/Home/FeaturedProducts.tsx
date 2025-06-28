@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { ArrowRight } from 'lucide-react';
 import ProductCard from '../Product/ProductCard';
-import { products } from '../../data/products_bg';
+import { products } from '../../data/products';
 
 const FeaturedProducts: React.FC = () => {
   // Select featured products - here I'm just taking the first 4

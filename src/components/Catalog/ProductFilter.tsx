@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Search, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { products } from '../../data/products_bg';
+import { products } from '../../data/products';
 
 interface ProductFilterProps {
   onFilterChange: (filters: Filters) => void;
