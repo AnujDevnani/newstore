@@ -66,22 +66,6 @@ export const products = [
     "year": "2024"
   },
   {
-    "id": "5576",
-    "name": "BARCA × CACTUS JACK KIT",
-    "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n•PRICE 650+SHIPPING",
-    "price": "650",
-    "currency": "INR",
-    "availability": "in stock",
-    "images": [
-      "https://store1940.netlify.app/newarrival/travis_1.jpeg",
-      "https://store1940.netlify.app/newarrival/travis_2.jpeg"
-    ],
-    "sizes": "S, M, L, XL, XXL",
-    "club": "Barcelona",
-    "player": "Travis Scott",
-    "year": "2024"
-  },
-  {
     "id": "9688375954584833",
     "name": "BECKHAM ENGLAND 1996 AWAY FULL SLEEVE KIT",
     "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n• S M L XL\n\nPRICE 450+SHIPPING",
@@ -194,6 +178,22 @@ export const products = [
     "sizes": "S, M, L, XL, XXL",
     "club": "AC Milan",
     "player": "LEAO",
+    "year": "2024"
+  },
+  {
+    "id": "5576",
+    "name": "BARCA × CACTUS JACK KIT",
+    "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n•PRICE 650+SHIPPING",
+    "price": "650",
+    "currency": "INR",
+    "availability": "in stock",
+    "images": [
+      "https://store1940.netlify.app/newarrival/travis_1.jpeg",
+      "https://store1940.netlify.app/newarrival/travis_2.jpeg"
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "club": "Barcelona",
+    "player": "Travis Scott",
     "year": "2024"
   },
   {
