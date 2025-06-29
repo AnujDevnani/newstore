@@ -84,6 +84,23 @@ export const products = [
     "year": "1996"
   },
   {
+    "id": "8400763",
+    "name": "RONALDO PORTUGAL 2025 HOME KIT",
+    "description": "• Sublimation Quality\n• Dotnet Material\n• Size *S XXL*\n\nPRICE 450+SHIPPING",
+    "price": "450",
+    "currency": "INR",
+    "availability": "in stock",
+    "images": [
+      "https://store1940.netlify.app/newarrival/ronaldo_1.jpeg",
+      "https://store1940.netlify.app/newarrival/ronaldo_2.jpeg",
+      "https://store1940.netlify.app/newarrival/ronaldo_3.jpeg"
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "club": "Portugal",
+    "player": "Ronaldo",
+    "year": "2025"
+  },
+  {
     "id": "8400763370041229",
     "name": "YAMAL BARCA 24-25 THIRD KIT",
     "description": "• Sublimation Quality\n• Dotnet Material\n• Size *S XXL*\n\nPRICE 450+SHIPPING",
