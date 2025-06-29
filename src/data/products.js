@@ -50,6 +50,23 @@ export const products = [
     "year": "2025"
   },
   {
+    "id": "5576",
+    "name": "BARCA × CACTUS JACK KIT",
+    "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n•PRICE 650+SHIPPING",
+    "price": "650",
+    "currency": "INR",
+    "availability": "in stock",
+    "images": [
+      "https://store1940.netlify.app/newarrival/travis_1.jpeg",
+      "https://store1940.netlify.app/newarrival/travis_2.jpeg",
+      "https://store1940.netlify.app/newarrival/travis_3.jpeg"
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "club": "Barcelona",
+    "player": "Travis Scott",
+    "year": "2024"
+  },
+  {
     "id": "8400763370041229",
     "name": "YAMAL BARCA 24-25 THIRD KIT",
     "description": "• Sublimation Quality\n• Dotnet Material\n• Size *S XXL*\n\nPRICE 450+SHIPPING",
@@ -180,22 +197,7 @@ export const products = [
     "player": "LEAO",
     "year": "2024"
   },
-  {
-    "id": "5576",
-    "name": "BARCA × CACTUS JACK KIT",
-    "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n•PRICE 650+SHIPPING",
-    "price": "650",
-    "currency": "INR",
-    "availability": "in stock",
-    "images": [
-      "https://store1940.netlify.app/newarrival/travis_1.jpeg",
-      "https://store1940.netlify.app/newarrival/travis_2.jpeg"
-    ],
-    "sizes": "S, M, L, XL, XXL",
-    "club": "Barcelona",
-    "player": "Travis Scott",
-    "year": "2024"
-  },
+  
   {
     "id": "6854322691358989",
     "name": "REAL MADRID BLUE SPECIAL EDITION KIT",
