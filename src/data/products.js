@@ -67,6 +67,23 @@ export const products = [
     "year": "2024"
   },
   {
+    "id": "8400763370",
+    "name": "BECKHAM ENGLAND 1996 HOME FULL SLEEVE KIT",
+    "description": "• Sublimation Quality\n• Dotnet Material\n• Size *S XXL*\n\nPRICE 550+SHIPPING",
+    "price": "550",
+    "currency": "INR",
+    "availability": "in stock",
+    "images": [
+      "https://store1940.netlify.app/newarrival/beckham_1.jpeg",
+      "https://store1940.netlify.app/newarrival/beckham_2.jpeg",
+      "https://store1940.netlify.app/newarrival/beckham_3.jpeg"
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "club": "England",
+    "player": "Beckham",
+    "year": "1996"
+  },
+  {
     "id": "8400763370041229",
     "name": "YAMAL BARCA 24-25 THIRD KIT",
     "description": "• Sublimation Quality\n• Dotnet Material\n• Size *S XXL*\n\nPRICE 450+SHIPPING",
