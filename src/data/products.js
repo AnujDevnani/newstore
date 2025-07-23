@@ -35,19 +35,36 @@ export const products = [
   {
     "id": "24750043901262119",
     "name": "MBAPPE REAL MADRID 25-26 HOME FULL SLEEVE KIT",
-    "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n• S M L XL XXL\n\nPRICE 450+SHIPPING",
-    "price": "450",
+    "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n• S M L XL XXL\n\nPRICE 490+SHIPPING",
+    "price": "490",
     "currency": "INR",
     "availability": "in stock",
     "images": [
-      "https://2chat-user-data.s3.amazonaws.com/w/p/919645921914/24750043901262119_1",
-      "https://2chat-user-data.s3.amazonaws.com/w/p/919645921914/24750043901262119_2",
-      "https://2chat-user-data.s3.amazonaws.com/w/p/919645921914/24750043901262119_3"
+      "https://store1940.netlify.app/real/fullfront25-26.jpeg",
+      "https://store1940.netlify.app/real/Mbappe25-26.jpeg",
+      "https://store1940.netlify.app/real/25-26common.jpeg",
     ],
     "sizes": "S, M, L, XL, XXL",
     "club": "Real Madrid",
     "player": "MBAPPE",
     "year": "2025"
+  },
+  {
+    "id": "55575776",
+    "name": "YAMAL BARCA 25-26 HOME KIT",
+    "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n•PRICE 480+SHIPPING",
+    "price": "480",
+    "currency": "INR",
+    "availability": "in stock",
+    "images": [
+      "https://store1940.netlify.app/barca/barca25-26_1.jpeg",
+      "https://store1940.netlify.app/barca/barca25-26_2.jpeg",
+      "https://store1940.netlify.app/barca/barca25-26_3.jpeg"
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "club": "Barcelona",
+    "player": "",
+    "year": "2026"
   },
   {
     "id": "5576",
@@ -65,6 +82,22 @@ export const products = [
     "club": "Barcelona",
     "player": "Travis Scott",
     "year": "2024"
+  },
+  {
+    "id": "247500439019",
+    "name": "REAL MADRID 25-26 HOME FULL SLEEVE KIT",
+    "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n• S M L XL XXL\n\nPRICE 450+SHIPPING",
+    "price": "450",
+    "currency": "INR",
+    "availability": "in stock",
+    "images": [
+      "https://store1940.netlify.app/real/nonamefull.jpeg",
+      "https://store1940.netlify.app/real/nonamefull2.jpeg",
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "club": "Real Madrid",
+    "player": "",
+    "year": "2025"
   },
   {
     "id": "8400763370",
@@ -98,6 +131,74 @@ export const products = [
     "sizes": "S, M, L, XL, XXL",
     "club": "Portugal",
     "player": "Ronaldo",
+    "year": "2025"
+  },
+  {
+    "id": "247500262119",
+    "name": "VINI REAL MADRID 25-26 HOME KIT",
+    "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n• S M L XL XXL\n\nPRICE 450+SHIPPING",
+    "price": "480",
+    "currency": "INR",
+    "availability": "in stock",
+    "images": [
+      "https://store1940.netlify.app/real/half25-26.jpeg",
+      "https://store1940.netlify.app/real/viihalf.jpeg",
+      "https://store1940.netlify.app/real/25-26common.jpeg",
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "club": "Real Madrid",
+    "player": "Vini",
+    "year": "2026"
+  },
+  {
+    "id": "2470041262119",
+    "name": "MBAPPE REAL MADRID 25-26 HOME KIT",
+    "description": "• Sublimation Quality\n• Dotnet Material\n• Embroidery 🪡\n• S M L XL XXL\n\nPRICE 450+SHIPPING",
+    "price": "480",
+    "currency": "INR",
+    "availability": "in stock",
+    "images": [
+      "https://store1940.netlify.app/real/half25-26.jpeg",
+      "https://store1940.netlify.app/real/mbappehalf.jpeg",
+      "https://store1940.netlify.app/real/25-26common.jpeg",
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "club": "Real Madrid",
+    "player": "MBAPPE",
+    "year": "2026"
+  },
+  {
+    "id": "84007633700",
+    "name": "YAMAL BARCA SPECIAL EDITION KIT",
+    "description": "• Sublimation Quality\n• Dotnet Material\n• Size *S XXL*\n\nPRICE 450+SHIPPING",
+    "price": "450",
+    "currency": "INR",
+    "availability": "in stock",
+    "images": [
+      "https://store1940.netlify.app/newarrival/yamalspecial1.jpeg",
+      "https://store1940.netlify.app/newarrival/yamalspecial2.jpeg",
+      "https://store1940.netlify.app/newarrival/yamalspecial3.jpeg"
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "club": "Barcelona",
+    "player": "YAMAL",
+    "year": "2025"
+  },
+  {
+    "id": "84007633",
+    "name": "REAL MADRID 23-24 GOLDEN SPECIAL EDITION KIT",
+    "description": "• Sublimation Quality\n• Dotnet Material\n• Size *S XXL*\n\nPRICE 450+SHIPPING",
+    "price": "450",
+    "currency": "INR",
+    "availability": "in stock",
+    "images": [
+      "https://store1940.netlify.app/newarrival/realspecial26_1.jpeg",
+      "https://store1940.netlify.app/newarrival/realspecial26_2.jpeg",
+      "https://store1940.netlify.app/newarrival/realspecial26_3.jpeg"
+    ],
+    "sizes": "S, M, L, XL, XXL",
+    "club": "Real Madrid",
+    "player": "",
     "year": "2025"
   },
   {
