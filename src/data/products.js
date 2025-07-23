@@ -57,9 +57,9 @@ export const products = [
     "currency": "INR",
     "availability": "in stock",
     "images": [
-      "https://store1940.netlify.app/barca/barca25-26_1.jpeg",
+      "https://store1940.netlify.app/barca/barca25-26_3.jpeg",
       "https://store1940.netlify.app/barca/barca25-26_2.jpeg",
-      "https://store1940.netlify.app/barca/barca25-26_3.jpeg"
+      "https://store1940.netlify.app/barca/barca25-26_1.jpeg"
     ],
     "sizes": "S, M, L, XL, XXL",
     "club": "Barcelona",
